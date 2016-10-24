@@ -1,6 +1,6 @@
 # Sieves 
 
-To run this program you need to "python 2.7" from https://python.prg
+To run this program you need to "python 2.7" from https://python.org
 
 
 Download it and install python ..
